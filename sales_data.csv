@@ -1,0 +1,10 @@
+Order_ID,Order_Date,Product,Category,Quantity,Price,Customer,City
+1,05-01-2025,Laptop,Electronics,1,50000,Arjun,Hyderabad
+2,06-01-2025,Mouse,Electronics,2,500,Ayesha,Delhi
+3,07-01-2025,Mobile,Electronics,1,20000,Ravi,Mumbai
+4,08-01-2025,Book,Stationary,3,300,Sneha,Hyderabad
+5,09-01-2025,Pen,Stationary,10,10,John,Chennai
+6,10-02-2025,Laptop,Electronics,1,52000,Ravi,Mumbai
+7,12-02-2025,Mobile,Electronics,2,21000,Ayesha,Delhi
+8,15-02-2025,Book,Stationary,5,250,Sneha,Hyderabad
+,,,,,-,,
